@@ -2,7 +2,7 @@
 title: "Identification and structural analysis of a novel carboxysome shell protein with implications for metabolite transport"
 collection: publications
 permalink: /publications/2009-Klein
-date: 2008-03-25
+date: 2009-09-18
 venue: 'Journal of Molecular Biology'
 citation: 'M Klein, P Zwart, SC Bagby, F Cai, SW Chisholm, S Heinhorst, G Cannon, and CA Kerfeld (2009). &quot;Identification and structural analysis of a novel carboxysome shell protein with implications for metabolite transport.&quot; <i>J Mol Biol</i> 392(2):319.'
 ---
