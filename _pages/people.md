@@ -1,5 +1,5 @@
 ---
-title: "People"
+title: "Join Us"
 excerpt:  "Join Us"
 author_profile: true
 redirect_from:
