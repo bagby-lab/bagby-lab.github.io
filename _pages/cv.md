@@ -35,3 +35,9 @@ Research
   * University of Chicago Department of Biochemistry & Molecular Biology
   * Advisor: Phoebe A. Rice
   
+Publications
+  ======
+    <ul>{% for post in site.publications %}
+     {% include archive-single-cv.html %}
+   {% endfor %}</ul>
+   
