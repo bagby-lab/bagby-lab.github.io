@@ -3,11 +3,5 @@ main:
   - title: "People"
     url: /people/
 
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CV"
+- title: "CV"
     url: /cv/
