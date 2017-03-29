@@ -1,7 +1,7 @@
 ---
 title: "Efficient phage-mediated pigment biosynthesis in oceanic cyanobacteria"
 collection: publications
-date: 2009
+date: 2008-03-25
 venue: 'Curr Biol'
 citation: 'Dammeyer, TD, SC Bagby, MB Sullivan, SW Chisholm, and N Frankenbert-Dinkel. (2009). &quot;Efficient phage-mediated pigment biosynthesis in oceanic cyanobacteria.&quot; <i>Curr Biol</i> 18(6):442.'
 ---
