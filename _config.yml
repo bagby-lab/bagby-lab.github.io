@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "SC Bagby"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Microbiologist at Case Western Reserve University"
   location         : "Cleveland, OH"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=bYN4-cMAAAAJ&hl=en"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "bagby-lab"
+  github           : "scbagby"
   google_plus      :
   keybase          :
   instagram        : 
