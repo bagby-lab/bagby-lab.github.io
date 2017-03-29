@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2009-Bagby-Bergman
 date: 2009-12-01
 venue: 'RNA'
-citation: 'SC Bagby,\* NH Bergman,\* DM Shechner, C Yen, and DP Bartel (2009). &quot;A class I ligase ribozyme with reduced Mg<sup>2+</sup> dependence: selection, sequence analysis, and tertiary-structure mapping.&quot; <i>RNA</i> 15:2129. (\*joint first authors)'
+citation: 'SC Bagby,<sup>1</sup> NH Bergman,<sup>1</sup> DM Shechner, C Yen, and DP Bartel (2009). &quot;A class I ligase ribozyme with reduced Mg<sup>2+</sup> dependence: selection, sequence analysis, and tertiary-structure mapping.&quot; <i>RNA</i> 15:2129. (<sup>1</sup>joint first authors)'
 ---
 A ribozyme selected for rapid catalysis shows changes to a network of structural interactions that contribute to metal-binding.  In vitro evolution, statistics, structural biochemistry.
 
