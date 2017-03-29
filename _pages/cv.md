@@ -11,31 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* BS in Biological chemistry, BA in Chemistry, BA in Philosophy, University of Chicago, 2000
+* BA(Hons) in Physiological sciences, Oxford University, 2002
+  * Marshall Scholar
+* PhD in Biology, Massachusetts Institute of Technology, 2009
+  * HHMI Pre-doctoral Fellow
 
-Work experience
+Research
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2009-2016: Postdoctoral research
+  * UCSB Department of Earth Science, Marine Science Institute
+  * Advisor: David L. Valentine
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2002-2009: Graduate research
+  * Massachusetts Institute of Technology Department of Biology
+  * Advisors: Sallie W. Chisholm, David P. Bartel
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* 2001-2002: Undergraduate research
+  * Oxford University Department of Biochemistry
+  * Advisor: James McDonnell
+  
+* 1998-2000: Undergraduate research
+  * University of Chicago Department of Biochemistry & Molecular Biology
+  * Advisor: Phoebe A. Rice
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -53,7 +52,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
