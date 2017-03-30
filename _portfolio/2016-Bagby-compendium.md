@@ -1,6 +1,6 @@
 ---
 title: "Research compendium:  Persistence and biodegradation of oil at the ocean floor following <i>Deepwater Horizon</i>"
-excerpt: "Bagby et al. (2016) research compendium>"
+excerpt: "Bagby et al. (2016) research compendium"
 collection: portfolio
 ---
 
