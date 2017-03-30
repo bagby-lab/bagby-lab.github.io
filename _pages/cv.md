@@ -35,6 +35,14 @@ Research
   * University of Chicago Department of Biochemistry & Molecular Biology
   * Advisor: Phoebe A. Rice
   
+Field experience
+======
+* Lead scientist for ROV <i>Jason</i> lowerings J2-735 and J2-736, SEEPS2013 cruise (R/V <i>Atlantis</i> Leg 26-06, September-October 2013)
+* Participant, UNOLS Chief Scientist Training Cruise (R/V <i>New Horizon</i> Leg NH1212, November 2012)
+* Lead scientist for ROV <i>Jason</i> lowerings J2-599 and J2-600, SEEPS2011 cruise (R/V <i>Atlantis</i> Leg 18-11, September 2011)
+* Junior scientist for DSV <i>Alvin</i> dive 4542 (depth 3470 m), SEEPS2009 cruise (R/V <i>Atlantis</i> Leg 15-53, September 2009)
+* Participant, Hawaii Ocean Time-Series cruise 186 (R/V <i>Kilo Moana</i> Leg KM0627, October 2006)
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
