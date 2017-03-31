@@ -1,6 +1,6 @@
 ---
-title: "Join Us"
-excerpt:  "Join Us"
+title: "Join us"
+excerpt:  "Join us"
 author_profile: true
 redirect_from:
   - /people
