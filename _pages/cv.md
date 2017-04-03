@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* BS in Biological chemistry, BA in Chemistry, BA in Philosophy, University of Chicago, 2000
-* BA(Hons) in Physiological sciences, Oxford University, 2002
-  * Marshall Scholar
 * PhD in Biology, Massachusetts Institute of Technology, 2009
   * HHMI Pre-doctoral Fellow
+* BA(Hons) in Physiological sciences, Oxford University, 2002
+  * Marshall Scholar
+* BS in Biological chemistry, BA in Chemistry, BA in Philosophy, University of Chicago, 2000
 
 Research
 ======
