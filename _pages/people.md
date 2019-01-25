@@ -9,8 +9,8 @@ permalink: /people/
 
 ### Current lab members
 
-**Derek A. Smith**, postdoctoral scholar  
-**Tom Brewer**, PhD student
+Derek A. Smith, postdoctoral scholar   
+Tom Brewer, PhD student
 
 ### Join us!
 
