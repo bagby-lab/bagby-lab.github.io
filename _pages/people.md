@@ -10,18 +10,18 @@ permalink: /people/
 ### Current lab members
 
 Derek A. Smith, postdoctoral scholar   
-Taiwo Mercy Faloni, PhD student
-Hallie Schultz, MS student
+Taiwo Mercy Faloni, PhD student   
+Hallie Schultz, MS student   
 Anish Reddy, undergrad researcher   
 Sachit Kshatriya, undergrad researcher   
-Danyel Crosby, undergrad researcher
+Danyel Crosby, undergrad researcher   
 Libby McDyer, undergrad researcher
 
 ### Former lab members
 
-Tom Brewer
-Dina O'Connell
-Anusha Mudigonda 
+Tom Brewer   
+Dina O'Connell   
+Anusha Mudigonda    
 Qiaochu Zhang
 
 <!---### Join us!--->
