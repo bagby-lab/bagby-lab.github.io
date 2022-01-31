@@ -10,12 +10,21 @@ permalink: /people/
 ### Current lab members
 
 Derek A. Smith, postdoctoral scholar   
-Tom Brewer, PhD student   
+Taiwo Mercy Faloni, PhD student
+Hallie Schultz, MS student
 Anish Reddy, undergrad researcher   
 Sachit Kshatriya, undergrad researcher   
-Anusha Mudigonda, undergrad researcher 
+Danyel Crosby, undergrad researcher
+Libby McDyer, undergrad researcher
+
+### Former lab members
+
+Tom Brewer
+Dina O'Connell
+Anusha Mudigonda 
+Qiaochu Zhang
 
 <!---### Join us!--->
 
-<!---We are looking for a few undergraduate researchers.  We have projects for people who like to get their boots muddy, people who like to work at the bench, and people who like to poke at code.  If you like to do any or (especially) all of these things, get in touch!--->
+<!---We have projects for people who like to get their boots muddy, people who like to work at the bench, and people who like to poke at code.  If you like to do any or (especially) all of these things, get in touch!--->
 
