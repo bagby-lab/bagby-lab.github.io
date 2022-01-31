@@ -7,6 +7,8 @@ redirect_from:
 permalink: /people/
 ---
 
+![Bagby lab, fall 2021](./images/Lab_party_2021.png)
+
 ### Current lab members
 
 Derek A. Smith, postdoctoral scholar   
