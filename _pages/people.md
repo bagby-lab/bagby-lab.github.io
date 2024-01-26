@@ -7,7 +7,7 @@ redirect_from:
 permalink: /people/
 ---
 
-![Bagby lab, spring 2024](/images/Lab_20240126.png)
+![Bagby lab, spring 2024](/images/Lab_20240126.jpg)
 
 ### Current lab members
 
