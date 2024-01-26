@@ -7,24 +7,37 @@ redirect_from:
 permalink: /people/
 ---
 
-![Bagby lab, fall 2021](/images/Lab_party_2021.png)
+![Bagby lab, spring 2024](/images/Lab_20240126.png)
 
 ### Current lab members
 
-Derek A. Smith, postdoctoral scholar   
+Derek A. Smith, senior research associate
+Tiffany Betras, postdoctoral researcher
 Taiwo Mercy Faloni, PhD student   
-Hallie Schultz, MS student   
-Anish Reddy, undergrad researcher   
-Sachit Kshatriya, undergrad researcher   
+Jessica LaBella, PhD student
+Fungai Tanya Shumba, MS student
+Sachit Kshatriya, postbac researcher   
 Danyel Crosby, undergrad researcher   
-Libby McDyer, undergrad researcher
+Mariana Labat, undergrad researcher   
+Bryce Chong, undergrad researcher   
+Eileen Zhao, undergrad researcher   
+Emma Lokovic, undergrad researcher   
+Madison Talley, undergrad researcher   
+Siri Westerheim, undergrad researcher   
+Tyler Sun, undergrad researcher   
 
 ### Former lab members
 
 Tom Brewer   
+Yang Qiao
+Hallie Schultz
 Dina O'Connell   
 Anusha Mudigonda    
 Qiaochu Zhang
+Anish Reddy
+Libby McDyer
+Christian Lee
+Sean Stewart
 
 <!---### Join us!--->
 
