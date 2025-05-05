@@ -11,26 +11,29 @@ permalink: /people/
 
 ### Current lab members
 
-Derek A. Smith, senior research associate
-Tiffany Betras, postdoctoral researcher
-Taiwo Mercy Faloni, PhD student   
+Derek Smith, research scientist
+Dylan Cronin, postdoctoral researcher
+Taiwo Mercy (Faloni) Akanbi, PhD student   
 Jessica LaBella, PhD student
-Fungai Tanya Shumba, MS student
-Sachit Kshatriya, postbac researcher   
-Danyel Crosby, undergrad researcher   
+Isabella Darling, PhD student
+Sachit Kshatriya, PhD student (starting August 2025!)
+Casey Kimber, PhD student (starting August 2025!)
 Mariana Labat, undergrad researcher   
-Bryce Chong, undergrad researcher   
-Eileen Zhao, undergrad researcher   
-Emma Lokovic, undergrad researcher   
 Madison Talley, undergrad researcher   
-Siri Westerheim, undergrad researcher   
 Tyler Sun, undergrad researcher   
 
 ### Former lab members
 
+Tiffany Betras
 Tom Brewer   
 Yang Qiao
 Hallie Schultz
+Fungai Tanya Shumba
+Danyel Crosby
+Bryce Chong
+Eileen Zhao
+Emma Lokovic
+Siri Westerheim
 Dina O'Connell   
 Anusha Mudigonda    
 Qiaochu Zhang
