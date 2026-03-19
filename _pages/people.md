@@ -16,11 +16,13 @@ Dylan Cronin, postdoctoral researcher
 Taiwo Mercy (Faloni) Akanbi, PhD student     
 Jessica LaBella, PhD student  
 Isabella Darling, PhD student  
-Sachit Kshatriya, PhD student (starting August 2025!)  
-Casey Kimber, PhD student (starting August 2025!)  
-Mariana Labat, undergrad researcher   
+Sachit Kshatriya, PhD student  
+Casey Kimber, PhD student  
 Madison Talley, undergrad researcher   
 Tyler Sun, undergrad researcher   
+Genevieve Suorsa, undergrad researcher   
+Ava Ellis, undergrad researcher   
+Angelica Arevalo, undergrad researcher   
 
 ### Former lab members
 
@@ -29,6 +31,7 @@ Tom Brewer
 Yang Qiao  
 Hallie Schultz  
 Fungai Tanya Shumba  
+Mariana Labat  
 Danyel Crosby  
 Bryce Chong  
 Eileen Zhao  
