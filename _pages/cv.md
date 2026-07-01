@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+Appointments
+=====
+* Associate Professor of Biology, Case Western Reserve University, 2026-
+* Assistant Professor of Biology, Case Western Reserve University, 2017-2026
 
 Education
 ======
